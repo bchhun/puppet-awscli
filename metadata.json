@@ -9,7 +9,7 @@
   "issues_url": "https://github.com/jdowning/puppet-awscli/issues",
   "dependencies": [
     {
-      "name": "stahnma/epel",
+      "name": "puppet-epel",
       "version_requirement": ">= 1.0.0 <2.0.0"
     },
     {
